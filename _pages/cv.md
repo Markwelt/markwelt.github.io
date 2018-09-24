@@ -9,4 +9,4 @@ redirect_from:
   - /Curriculum
 ---
 
--permalink: /files/cv.pdf
+<p style="text-decoration:underline;"><a href="/files/cv.pdf">Curriculum Vitae</a></p>
