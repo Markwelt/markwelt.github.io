@@ -84,7 +84,7 @@ author:
   bio              : "Cognitive neuroscientist specialized in human electrophysiology in the Salzburg Brain Dynamics lab"
   location         : "Salzburg, Austria"
   employer         : "https://www.oboblab.at/"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=QZh_-Z0AAAAJ&hl=en&oi=ao"
   email            : "marco . fusca (at) sbg.ac.at"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Markwelt"
-  google_plus      :
+  google_plus      : "https://plus.google.com/+MarcoFusc%C3%A0"
   keybase          :
   instagram        :
   lastfm           :
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
