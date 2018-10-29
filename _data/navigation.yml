@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+      - title: "Research"
+    url: /research/
 
   - title: "Conferences"
     url: /conferences/    
@@ -11,10 +14,7 @@ main:
     
   - title: "Education Bio"
     url: /educationbio/
-        
-  - title: "Research"
-    url: /research/
-    
+            
   - title: "CV"
     url: /cv/
     
