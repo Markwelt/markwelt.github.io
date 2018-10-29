@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education Bio"
+title: "Education"
 permalink: /educationbio/
 author_profile: true
 ---
