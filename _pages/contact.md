@@ -56,24 +56,3 @@ Use the form below to contact me:
   <button type="submit">Submit</button>
   
 </form>
-
-  <!--
-    form
-  action="https://liveformhq.com/form/5f7c455f-dcb4-407c-9fbd-53efdf569d82"
-  method="POST" accept-charset="utf-8" role=form
- input type="hidden" name="_utf8" value="✓"
-  input type="hidden" name="_redirect" value="https://liveformhq.com/form-test/5f7c455f-dcb4-407c-9fbd-53efdf569d82#thank-you">
-  div class='form-group'
-    <label for="name">Name</label
-    <input class='form-control' type="text" id="name" name="name"
-  </div>
-  <div class='form-group'>
-    <label for="email">Email</label>
-    <input class='form-control' type="text" id="email" name="email">
-  </div>
-  <div class='form-group'>
-    <label for="message">Message</label>
-    <textarea class='form-control' id="message" name="message"></textarea>
-  </div>
-  <button type="submit">Submit</button>
- -->
