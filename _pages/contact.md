@@ -5,8 +5,6 @@ sitemap: true
 permalink: /contact.html
 ---
 
-<!-- script src='https://www.google.com/recaptcha/api.js'></script>
-
 Use the form below to contact me:
 
 <form action="https://liveformhq.com/form/5f7c455f-dcb4-407c-9fbd-53efdf569d82" method="POST" accept-charset="utf-8" role=form>
@@ -53,3 +51,5 @@ Use the form below to contact me:
   <button type="submit">Submit</button>
   
 </form>
+
+<!-- script src='https://www.google.com/recaptcha/api.js'></script>
