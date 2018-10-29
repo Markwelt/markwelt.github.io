@@ -3,7 +3,6 @@ title: "Contact"
 excerpt: "Use the form to send an email"
 sitemap: false
 permalink: /contact.html
-script: https://www.google.com/recaptcha/api.js
 ---
 
 <!-- script src='https://www.google.com/recaptcha/api.js'></script>
@@ -38,12 +37,12 @@ Use the form below to contact me:
    <label for="message">Message</label>
    <textarea class='form-control' id="message" name="message"></textarea>
   </div>
-  
+  <br />
  <div class="form-group">
    <label>Attachment (optional)</label>
     <input type="file" name='file' class="form-control">
   </div>
-  
+  <br />
    <div class="checkbox">
     <label>
       <input type="checkbox" name='contact' value='Yes'> Do you want us to contact you?
