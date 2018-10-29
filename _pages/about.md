@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal webpage of Dr. Marco Fuscà (under construction).
+This is the personal webpage of Dr. Marco Fuscà.
