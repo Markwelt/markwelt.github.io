@@ -16,7 +16,7 @@ Use the form below to contact me:
     NOTE: This is an optional field, if your form has a field named '_redirect',
     The user will be redirected to this page after the submission is saved
   -->
-  <input type="hidden" value="/contact_ty.html" name="_redirect" />
+  <input type="hidden" value="/contact_ty.html" name="_redirect">
 
 <div class='form-group'>
   <label for="name">Name (optional)</label>
