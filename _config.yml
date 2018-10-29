@@ -82,10 +82,10 @@ author:
   name             : "Dr. Marco Fuscà"
   avatar           : "profile.png"
   bio              : "Cognitive neuroscientist specialized in human electrophysiology in the Salzburg Brain Dynamics lab"
-  location         : 
   employer         : <a href="https://www.oboblab.at/">Lab Website</a>
+  location         : <a href="/contact.html">Contact me</a>
   googlescholar    : "https://scholar.google.com/citations?user=QZh_-Z0AAAAJ&hl=en&oi=ao"
-  email            : <a href="/contact.html">Contact me</a>
+  email            : 
   uri              :
   foursquare       :
   github           : "Markwelt"
