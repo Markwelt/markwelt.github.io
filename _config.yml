@@ -83,9 +83,9 @@ author:
   avatar           : "profile.png"
   bio              : "Cognitive neuroscientist specialized in human electrophysiology in the Salzburg Brain Dynamics lab"
   location         : 
-  employer         : <span style="text-decoration:underline;"><a href="https://www.oboblab.at/">Lab Website</a></span> 
+  employer         : <a href="https://www.oboblab.at/">Lab Website</a>
   googlescholar    : "https://scholar.google.com/citations?user=QZh_-Z0AAAAJ&hl=en&oi=ao"
-  email            : <span style="text-decoration:underline;"><a href="/contact.html">Contact me</a></span> 
+  email            : <a href="/contact.html">Contact me</a>
   uri              :
   foursquare       :
   github           : "Markwelt"
