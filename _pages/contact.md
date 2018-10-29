@@ -41,8 +41,8 @@ Use the form below to contact me:
   <br />
    <div class="checkbox">
     <label>
-      <input type="checkbox" name='contact' value='Yes'> Do you want us to contact you?
-      <input type='hidden' name='contact' value='No'>
+      <input type="checkbox" name='suggestion' value='Yes'> No need for a reply, just a suggestion.
+      <input type='hidden' name='suggestion' value='No'>
     </label>
   </div>
   
