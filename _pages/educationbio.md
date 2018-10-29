@@ -21,7 +21,7 @@ author_profile: true
 <div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Full time Affiliate Graduate student in a 6 month programme at UCL, Psychology and Language Sciences Division. Consists of a MSc taught module and an internship project; <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Project Supervisors: <i style="mso-bidi-font-style: normal;">Schwarzkopf, S.D.; Barnes, G.R.; Rees, G</i>.</span></div>
 </li>
 </ul>
-</div>
+
 <ul>
 <li><u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Bachelor's Degree,</span></u> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Cognitive Psychology,</span> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri; mso-ansi-language: EN-US;">University</span> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;"><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;"><span xml:lang="EN-GB" lang="EN-GB">&ldquo;La Sapienza&rdquo;, Rome, Italy</span> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri; mso-ansi-language: EN-US; float: right;"><i style="mso-bidi-font-style: normal;">09/2008 - 07/2011</i></span><br /></span></span>
 <div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Three-year Laurea in <i style="mso-bidi-font-style: normal;">Psychological sciences and techniques for the analysis and the clinical evaluation of cognitive processes</i> at the Medicine and Psychology Faculty; <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Overall class grade: <i style="mso-bidi-font-style: normal;">110 (out of 110) cum laude</i></span></div>
@@ -29,9 +29,3 @@ author_profile: true
 </ul>
 
 {% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
