@@ -14,7 +14,7 @@ description              : &description "Neuroscientist"
 url                      : https://markwelt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "markwelt.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -28,7 +28,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,23 +82,14 @@ author:
   name             : "Dr. Marco Fuscà"
   avatar           : "profile.png"
   bio              : "Cognitive neuroscientist specialized in human electrophysiology in the Salzburg Brain Dynamics lab"
-  location         : "Salzburg, Austria"
-  employer         : "https://www.oboblab.at/"
+  location         : 
+  employer         : <span style="text-decoration:underline;"><a href="https://www.oboblab.at/">Lab Website</a></span> 
   googlescholar    : "https://scholar.google.com/citations?user=QZh_-Z0AAAAJ&hl=en&oi=ao"
-  email            : "marco . fusca (at) sbg.ac.at"
+  email            : <span style="text-decoration:underline;"><a href="/contact.html">Contact me</a></span> 
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
   foursquare       :
   github           : "Markwelt"
   google_plus      : "https://plus.google.com/+MarcoFusc%C3%A0"
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
   orcid            : "http://orcid.org/0000-0001-5900-9913"
   pinterest        :
   soundcloud       :
