@@ -5,7 +5,7 @@ permalink: /educationbio/
 author_profile: true
 ---
 
-<p class="MsoNormal">Education:</p>
+<p class="MsoNormal"></p>
 <ul>
 <li><u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Doctoral Degree,</span></u> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Cognitive Neuroscience,</span> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri; mso-ansi-language: EN-US;">University of Trento, Trento, Italy</span> <span style="float: right; font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri; mso-ansi-language: EN-US;"><i style="mso-bidi-font-style: normal;">10/2014 - 03/2018</i></span><br />
 <div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Three-year integrated program of research, instruction, and professional development in Cognitive Neuroscience based in the CIMeC - Center for Mind&amp;Brain Sciences; Supervisor: <i style="mso-bidi-font-style: normal;">Weisz, N.</i> <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Overall class grade: <i style="mso-bidi-font-style: normal;">cum laude</i></span></div>
