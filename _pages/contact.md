@@ -52,4 +52,7 @@ Use the form below to contact me:
   
 </form>
 
-<!-- script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- 
+script src='https://www.google.com/recaptcha/api.js'
+/script>
+-->
