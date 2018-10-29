@@ -39,6 +39,18 @@ Use the form below to contact me:
    <textarea class='form-control' id="message" name="message"></textarea>
   </div>
   
+ <div class="form-group">
+   <label>Attachment (optional)</label>
+    <input type="file" name='file' class="form-control">
+  </div>
+  
+   <div class="checkbox">
+    <label>
+      <input type="checkbox" name='contact' value='Yes'> Do you want us to contact you?
+      <input type='hidden' name='contact' value='No'>
+    </label>
+  </div>
+  
   <div class="g-recaptcha" data-sitekey="6LcBYXcUAAAAACf5KlZ3lCem0rPKPa_avSyyW9Zv"></div> 
 
   <button type="submit">Submit</button>
