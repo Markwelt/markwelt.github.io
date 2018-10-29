@@ -9,7 +9,7 @@ author_profile: true
 <ul>
 <li><u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">Lecturer</span></u> 
   <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">; Dept. of Psychology, University of Salzburg <span style="float: right;"><i style="mso-bidi-font-style: normal;">October 2018 - Ongoing</i></span></span> <br />
-<div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB"> <u><a href="https://online.uni-salzburg.at/plus_online/wbLv.wbShowLVDetail?pStpSpNr=341416" target="_top">Empirical Seminar</a></u>;Bachelor´s Programme in Psychology <br />-  MEG, Predictive Coding, MVPA Decoding, Conducting and Analysing an MEG study</div>
+<div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB"> <u><a href="https://online.uni-salzburg.at/plus_online/wbLv.wbShowLVDetail?pStpSpNr=341416" target="_top">Empirical Seminar</a></u>; Bachelor´s Programme in Psychology <br />-  MEG, Predictive Coding, MVPA Decoding, Conducting and Analysing an MEG study</div>
 </li>
 </ul>
 <ul>
