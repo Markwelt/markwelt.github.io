@@ -15,7 +15,9 @@ author_profile: true
 
 <li>High-Level Cognitive Processes such as Consciousness, Cognitive Control and Decision-Making</li>
  </ul>   
-    
+ 
+<br />
+
 <p class="MsoNormal"><b>Research Experience:</b></p>
 <ul>
 <li><u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">PostGraduate Research</span></u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">; CCNS, University of Salzburg <span style="float: right;"><i style="mso-bidi-font-style: normal;">March 2014 - Ongoing</i></span></span> <br />
