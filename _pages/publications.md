@@ -22,8 +22,8 @@ author_profile: true
 <p class="MsoNormal" style="text-align: justify; text-indent: -14.2pt; mso-hyphenate: auto; margin: 0cm 0cm 6.0pt 14.2pt;"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Fusc&agrave;, M.; Ruhnau, P.; Demarchi, G.; Weisz, N.; Neuling, T. (2015) <b>Brain Modulation during transcranial Alternating Current Stimulation recorded with MEG</b> <i style="mso-bidi-font-style: normal;">Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation, 8</i>(2), 386</span> <span xml:lang="EN-GB" lang="EN-GB"><a href="https://doi.org/10.1016/j.brs.2015.01.234" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">DOI: 10.1016/j.brs.2015.01.234</span></a></span></p>
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+  You can also find my articles on [my Google Scholar profile]({{author.googlescholar}}).
+
 
 {% include base_path %}
