@@ -26,13 +26,13 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="https://www.oboblab.at/"><i class="fa fa-fw fa-area-chart" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].employer_label | default: " Lab Website" }}</a></li>
+        <li><a href="https://www.oboblab.at/"><i class="fa fa-fw fa-area-chart" aria-hidden="true"></i> Lab Website</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: " Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="/contact.html"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: " Contact me" }}</a></li>
+        <li><a href="/contact.html"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Contact</a></li>
       {% endif %}
       {% if author.skype %}
         <li><a href="http://bit.do/skype_markwelt"><i class="fa fa-fw fa-skype" aria-hidden="true"></i> Skype</a></li>
@@ -41,7 +41,7 @@
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.researchgate %}
-        <li><a href="https://www.researchgate.net/profile/Marco_Fusca"><i class="fa fa-fw fa-id-badge" aria-hidden="true"></i> Research Gate</a></li>
+        <li><a href="https://www.researchgate.net/profile/Marco_Fusca"><i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i> Research Gate</a></li>
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
