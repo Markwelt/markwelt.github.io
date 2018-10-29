@@ -27,8 +27,3 @@ author_profile: true
 </ul>
 </p>
 
-<p>See a <span style="text-decoration:underline;"><a href="/talkmap.html">map</a></span> of all the places I've been for a conference</p>
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
