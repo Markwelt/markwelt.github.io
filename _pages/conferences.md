@@ -6,7 +6,12 @@ author_profile: true
 ---
 <p> 
 <ul>
-<li><span xml:lang="EN-GB" lang="EN-GB"><a href="http://www.biomag2016.org/" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">BioMag 2016</span></a></span> <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Poster Presentation, Seoul, South Korea <span style="float: right;"><i style="mso-bidi-font-style: normal;">October 2016</i></span></span><br />
+<li><span xml:lang="EN-GB" lang="EN-GB"><a href="https://www.unitn.it/archivio/events/en/cimec-ten-years.html" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">10 years of CIMeC 2017</span></a></span> <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Poster Presentation, Rovereto, Italy <span style="float: right;"><i style="mso-bidi-font-style: normal;">October 2017</i></span></span><br />
+<div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">20<sup>th</sup> Conference for 10th anniversary of CIMeC. Poster title: &lsquo;What happens in the brain during tACS?&rsquo;</div>
+</li>
+</ul>
+<ul>
+<li><span xml:lang="EN-GB" lang="EN-GB"><a href="http://www.biomag2018.org/" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">BioMag 2016</span></a></span> <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Poster Presentation, Seoul, South Korea <span style="float: right;"><i style="mso-bidi-font-style: normal;">October 2016</i></span></span><br />
 <div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">20<sup>th</sup> International Conference. Poster title: &lsquo;Online State-Dependent Effects of tACS&rsquo;</div>
 </li>
 </ul>
@@ -21,7 +26,7 @@ author_profile: true
 </li>
 </ul>
 <ul>
-<li><span xml:lang="EN-GB" lang="EN-GB"><a href="http://www.biomag2014.org/" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">BioMag 2014</span></a></span> <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Poster Presentation, Halifax, NS, Canada <span style="float: right;"><i style="mso-bidi-font-style: normal;">August 2014</i></span></span><br />
+<li><span xml:lang="EN-GB" lang="EN-GB"><a href="http://www.biomag2018.org/" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">BioMag 2014</span></a></span> <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Poster Presentation, Halifax, NS, Canada <span style="float: right;"><i style="mso-bidi-font-style: normal;">August 2014</i></span></span><br />
 <div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">9<sup>th</sup> International Conference on Biomagnetism. Poster title: &lsquo;Abstract Auditory Categorical Representations and Domain-General Decision Making: a Multivariate MEG study&rsquo;</div>
 </li>
 </ul>
