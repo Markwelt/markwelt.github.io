@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Interests:
+<p class="MsoNormal"><b>Research Interests:</b></p>
 <ul>
 <li>State-of-the-art approaches in Brain Imaging Analysis and Methods</li>
 
@@ -16,7 +16,7 @@ Research Interests:
 <li>High-Level Cognitive Processes such as Consciousness, Cognitive Control and Decision-Making</li>
  </ul>   
     
-<p class="MsoNormal">Research Experience</p>
+<p class="MsoNormal"><b>Research Experience:</b></p>
 <ul>
 <li><u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">PostGraduate Research</span></u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">; CCNS, University of Salzburg <span style="float: right;"><i style="mso-bidi-font-style: normal;">March 2014 - Ongoing</i></span></span> <br />
 <div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB"> <u><a href="https://www.oboblab.at/" target="_top">Salzburg Brain Dynamics lab</a></u>; research advisor:  <i>N. Weisz</i> <br />-  M-EEG with concurrent TMS/tACS, causal inference of ERC-founded project WIN2CON</div>
