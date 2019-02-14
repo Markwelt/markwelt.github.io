@@ -5,4 +5,4 @@ permalink: /tacs_meg_brainscalp/
 author_profile: true
 ---
 
-<p> <span>&nbsp; <a href="/files/tacs_meg_brainscalp.png"><img src="/files/tacs_meg_brainscalp.png" alt="Recovery of Brain Activity under tACS"></a> </span></p>
+<p> <img src="/files/tacs_meg_brainscalp.png" alt="Recovery of Brain Activity under tACS"> </p>
