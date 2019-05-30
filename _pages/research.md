@@ -21,7 +21,7 @@ author_profile: true
 <p class="MsoNormal"><b>Research Experience:</b></p>
 <ul>
 <li><u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">PostGraduate Research</span></u><span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;" xml:lang="EN-GB" lang="EN-GB">; CCNS, University of Salzburg <span style="float: right;"><i style="mso-bidi-font-style: normal;">March 2014 - Ongoing</i></span></span> <br />
-<div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB"> <a href="https://www.oboblab.at/" target="_top" style="color:#958adb;">Salzburg Brain Dynamics lab</a>; research advisor:  <i>N. Weisz</i> <br />-  M-EEG with concurrent TMS/tACS, causal inference of ERC-founded project WIN2CON</div>
+<div style="padding-left: 30px; font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB"> <a href="https://braindynamics.sbg.ac.at/" target="_top" style="color:#958adb;">Salzburg Brain Dynamics lab</a>; research advisor:  <i>N. Weisz</i> <br />-  M-EEG with concurrent TMS/tACS, causal inference of ERC-founded project WIN2CON</div>
 </li>
 </ul>
 <ul>
