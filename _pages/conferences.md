@@ -4,6 +4,8 @@ title: "Conferences and Posters"
 permalink: /conferences/
 author_profile: true
 ---
+<p class="MsoNormal"><b>First author poster presentations</b></p>
+
 <p> 
 <ul>
 <li><span xml:lang="EN-GB" lang="EN-GB"><a href="https://www.unitn.it/archivio/events/en/cimec-ten-years.html" target="_top"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; color:#958adb;">10 years of CIMeC 2017</span></a></span> <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;" xml:lang="EN-GB" lang="EN-GB">Poster Presentation, Rovereto, Italy <span style="float: right;"><i style="mso-bidi-font-style: normal;">October 2017</i></span></span><br />
@@ -32,3 +34,8 @@ author_profile: true
 </ul>
 </p>
 
+<p class="MsoNormal"><b>Conferences attended</b></p>
+<p> Cognitive Science Arena, 2015, 2017; Tübingen MEG Symposium, 2015; RAW, 2015; CAOs, 2014, 2015, 2017; SAMBA Meeting, 2017, 2018, 2019 <i>(Organizer)</i> </p>
+<p class="MsoNormal"><b>Workshops attended</b></p>
+<p> SPM MEG course, 2013 <i>(Organizer)</i>; Donders Tool-kit on tBS, 2014; The Brain and Ideas, 2014;
+Model-Based Neuroscience, 2016; Motivation, Selection, and Information, 2017 </p>
